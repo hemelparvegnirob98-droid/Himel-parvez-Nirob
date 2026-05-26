@@ -1,0 +1,6 @@
+{
+  "name": "Smart Login Pro",
+  "description": "Smart Login Pro is an office landing and user attendance tracker with admin control, password resets, and Excel format reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
